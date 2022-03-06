@@ -1,1 +1,1 @@
-changes made from git hub
+Changes made in git to understand the Git Pull concept
