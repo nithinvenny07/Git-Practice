@@ -1,1 +1,1 @@
-test file in the master is edited
+changes made after merging new local branch to main branch
